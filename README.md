@@ -21,4 +21,7 @@ Método estático que faz a `view` voltar a visibilidade normal.
 ```
 
 ### Considerações
-Ainda há muita coisa a ser feita para aprimorar mais a biblioteca como por exemplo aplicar a animação de um ponto customizável da `view` - **atualmente a animação de `reveal` se inicia no centro e se propaga para as beiradas da view sendo o contrário para `obscure`.**    
+Ainda há muita coisa a ser feita para aprimorar mais a biblioteca como por exemplo aplicar a animação de um ponto customizável da `view` - **atualmente a animação de `reveal` se inicia no centro e se propaga para as beiradas da view sendo o contrário para `obscure`.**  
+
+### Veja o código 
+![Source Code](https://github.com/eduardowgmendes/RevealAnimationClass/blob/master/app/src/main/java/br/com/testing/application/revealanimation/RevealAnimationUtil.java#L1)  
