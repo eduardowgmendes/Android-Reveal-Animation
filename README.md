@@ -12,7 +12,7 @@ Esconde a `view` deixando-a em um estado invisível.
 ```
 
 ### `reveal(View v);`
-Faz a view voltar a visibilidade normal. 
+Faz a `view` voltar a visibilidade normal. 
 ```java
   RevealViewUtils.reveal(View view);
 ```
